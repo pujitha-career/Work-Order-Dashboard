@@ -78,7 +78,12 @@ This dashboard helps:
 - Monitor backlog aging and discipline-specific load
 
 ---
+## 📊 Tools & Technologies
+- **Power BI Desktop**
+- Microsoft Excel
+- CMMS / Maintenance Data (Work Orders)
 
+---
 ## 🔮 Future Enhancements
 
 - Add interactive filtering by department and discipline  
